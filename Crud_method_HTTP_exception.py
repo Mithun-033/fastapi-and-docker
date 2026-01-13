@@ -71,3 +71,4 @@ def get_scalar_reference()-> Any:
         openapi_url=web.openapi_url,
         title="Scalar API Reference",
     )
+#awrbg
